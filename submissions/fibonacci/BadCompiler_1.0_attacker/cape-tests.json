@@ -3,7 +3,8 @@
   "tests": [
     {
       "name": "attacker_controlled_test",
-      "input": null,
+      "description": "Fake local test controlled by the submitter",
+      "inputs": [],
       "expected": {
         "type": "error"
       }
